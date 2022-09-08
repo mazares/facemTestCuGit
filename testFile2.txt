@@ -1,4 +1,12 @@
 chippin in
 Trying something new
 
+<<<<<<< HEAD
 there was a line here
+=======
+let's try more
+
+the more you try ... bla bla
+
+what's wrong with contributors?
+>>>>>>> 68e3593be11132bf74e7c3df5ac75c25c6dcb456
